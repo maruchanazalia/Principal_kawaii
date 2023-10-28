@@ -1,0 +1,12 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+.footer{
+    position: absolute;
+    top: 100%;
+    bottom: 0%;
+    width: 100%;
+    background-color: #fa8cef1c;
+    text-align: center; 
+    line-height: 1;
+}
+

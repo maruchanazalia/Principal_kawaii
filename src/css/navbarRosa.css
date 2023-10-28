@@ -1,0 +1,30 @@
+.navbar-pink{
+    background-color: #FA8CEF;
+
+    top: 0;
+
+
+    width: 100%;
+
+    text-align: left;
+    padding: 10px;
+    display: flex;
+  
+}
+
+.nav-link {
+    color: white; 
+    margin: 0 10px; 
+ 
+  }
+  
+  .text-white {
+    color: white; 
+    
+  }
+
+.datos{
+  position: absolute;
+  left: 15%;
+  font-size: 20px; 
+  }
